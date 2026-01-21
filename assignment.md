@@ -61,8 +61,7 @@ Final deliverables consist of:
 Projects that go above and beyond will also model and simulate potential improvements to verify their feasibility. 
 A _screenshot comparison_ or citing the simulation time, will be appreciated when referring to such improvements in the report.
 
-![Fig 1: An Example of 4D site simulation for site-casting and erection of
-structural cladding using Revit + Dynamo API software.](dynamo-navis sample.png)
+![Fig 1: An Example of 4D site simulation for site-casting and erection of structural cladding using Revit + Dynamo API software.](dynamo-navis_sample.png)
 
 ## Technical Considerations: 
 You will require access to _'Navisworks Manage'_. 
