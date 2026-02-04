@@ -27,7 +27,7 @@ __Superstructure__ is steel frame, and the envelope is primarily pre-cast concre
 __The Roof__ has been simplified from its many layers (truss, decking, insulation, waterproofing etc.)
 into a single element. 
 
-Fabricators have yet to be involved so ___you are expected to do some research into each of these construction methods___. 
+Fabricators have yet to be involved so ___you are expected to provide research and data sources___. 
 
 This includes making and stating assumptions about _batching_ and _delivery_. Consider _at least_, the amount or volume of materials as appopriate
 (e.g. numbers of pallets of panels, trusses etc.), transportation methods, and distance.
@@ -37,8 +37,7 @@ The designers want to start engaging with the contractors with the following exp
 ## Expectations
 
 * Create a realistic schedule based on
-  * the ‘hard’ mathematical methods, and data sources of the
-course (equipment and labour productivity, safety, traffic control protocol, etc.)
+  * the ‘hard’ mathematical methods, and data sources of engineering data (equipment and labour productivity, safety, traffic control protocol, etc.)
   * what the model suggests in terms of construction methods _and the site configuration_
   * light research
 * Link estimated schedule and cost data to appropriate model elements
@@ -65,30 +64,24 @@ A _screenshot comparison_ or citing the simulation time, will be appreciated whe
 _Fig 1: An Example of 4D site simulation for site-casting and erection of structural cladding using Revit + Dynamo API software_[^1]
 ## Technical Considerations: 
 You will require access to _'Navisworks Manage'_. 
-It is available in the [_location redaction_] computer labs, and the department’s
-own computer lab. There is also a student version with full features available for use on personal computers for free download
+It is available at [_location redaction_]. There is also a student version with full features available for use on personal computers for free download
 from Autodesk.
 
 Model files have the potential to be __large__, so it may be preferable to deliver via physical
 storage media. Office hours for organized transfer will be scheduled on Nov. 27th prior to the submission deadline (starting at 11:00am). 
 
-If no group member is available for transfer, please make other arrangements with the TA ahead
-of time. 
-
 An upload/share method is permitted, but it is each groups' responsibility to ensure
-the TA is able to receive _and access_ the file well in advance of the project deadline.
+receipt _and access_ in advance of the project deadline.
 
 ## Assessment: 
-Grading follows the project evaluation rubric contained in the course syllabus.
 Generally, performing all expectations will earn a good mark. The best marks will go to projects that provide good
 critique or thorough analysis of simulation(s).
 
 ## Support: 
-The BIM module of the course, along with guest lectures, and a Navisworks
-tutorial (Nov. 1), should provide enough to produce a high quality project (and may help with
-other projects). 
+A scheduled  Navisworks
+tutorial (Nov. 1), should provide enough to produce a high quality project. 
 
-Tutorial Instructions are posted to the course portal. A tentative date for troubleshooting is set for Nov. 24.
+Tutorial Instructions are posted [_redacted_]. A tentative date for troubleshooting is set for Nov. 24.
 
 Autodesk also provide a robust knowledge network of articles, and content such as tutorials
 that can assist with performing the various tasks of this project, and much more with Navisworks (animating
