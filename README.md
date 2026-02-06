@@ -1,7 +1,9 @@
 # Building_Information_Modeling_5D
-An educational module consisting of one document to supplement in-person or webinar delivery of a tutorial; one assignment to test the expected learning outcomes; and one grade-feedback file.
+This project is an educational module consisting of one document to supplement in-person or webinar delivery of a tutorial; one assignment to test the expected learning outcomes; and one grade-feedback file.
 
 Select individual links in the project repository.
+
+A main learning outcome was to develop '5D' simulation skills for new and retrofit construction projects (see below for an example).
 
 ## A Sample Simulation Output
 Visualization of schedule data parameterized per component or assembly. (Green render represents work-in-progress).
