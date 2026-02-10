@@ -1,5 +1,5 @@
 # Building_Information_Modeling_5D
-This project is an educational module consisting of [one document to supplement in-person or webinar delivery of a tutorial](https://github.com/ekonroyd/Building_Information_Modeling_5D/blob/main/Supplementary%20Material.md); [one assignment](https://github.com/ekonroyd/Building_Information_Modeling_5D/blob/main/assignment.md) to test the expected learning outcomes; and [one grade-feedback file](https://github.com/ekonroyd/Building_Information_Modeling_5D/blob/main/Grade-Feedback.md).
+This project is an educational module consisting of [one document to supplement in-person or webinar delivery of a tutorial](https://github.com/ekonroyd/Building_Information_Modeling_5D/blob/main/Supplementary%20Material.md); [one assignment](https://github.com/ekonroyd/Building_Information_Modeling_5D/blob/main/assignment.md) to test the expected learning outcomes; and [grade-feedback samples](https://github.com/ekonroyd/Building_Information_Modeling_5D/blob/main/Grade-Feedback.md).
 
 A main outcome was developing '5D' simulation skills for new and retrofit construction projects. See below for an example simulation output.
 
