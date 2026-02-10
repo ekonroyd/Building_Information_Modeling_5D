@@ -16,7 +16,9 @@ as if they are linked to the representative geometry.
 
 In the GUI image below, any building elements of the ___model tree___ (6) that can be seen in  ___model space___ (1), be they foundation walls, cladding panels, or HVAC equipment, 
 can have unique time or cost parameters. As seen in the ___timeliner___ (3), time can be sub-divided or left as the total combined estimates for length of construction, 
-installation, or operational lifespan.  
+installation, or operational lifespan.
+
+![An image of the navisworks UI](NavisGUI.png)
 
 So long as data sources are __attached__ _[links to a redacted section on Attachment]_ to geometry, like in the image below, when __design changes__ call for increased floor space and thus more foundation wall for example, 
 the labour-time and material associated with the foundation system increases proportionally.
