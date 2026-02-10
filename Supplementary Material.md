@@ -18,10 +18,10 @@ In the GUI image below, any building elements of the ___model tree___ (6) that c
 can have unique time or cost parameters. As seen in the ___timeliner___ (3), time can be sub-divided or left as the total combined estimates for length of construction, 
 installation, or operational lifespan.  
 
-![An image of the navisworks UI](Navis GUI.png)
-So long as data sources are _attached [links to redacted section on Attachment]_ to geometry, like in the image below, when __design changes__ call for increased floor space and thus more foundation wall for example, 
+So long as data sources are __attached__ _[links to a redacted section on Attachment]_ to geometry, like in the image below, when __design changes__ call for increased floor space and thus more foundation wall for example, 
 the labour-time and material associated with the foundation system increases proportionally.
 
 ![A close up image of the timeliner for cladding panel objects](Attachment.png)
+
 Similarly, when __operations changes__ call for HVAC unit replacement, or additional industrial equipment on the floor, capital expenditures, energy usage, and labour-time for 
 maintenance will update in their respective operations dashboards.
