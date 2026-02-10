@@ -1,3 +1,4 @@
+# Excerpt from User Guide
 ## Background on '5D' information
 BIM employs parametric geometry. A model that is parameterized means it consists of a suite of variables.  
 These variables matter in construction per design intent. 
