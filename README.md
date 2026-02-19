@@ -19,11 +19,11 @@ I participated in client discovery and elicitation and developed capacities in B
 I learned about the importance of internal documentation from this project. When problems occurred, internal documentation served as the first triage point. Realizing that a particular problem required more primary data, I could then reach out to client teams with a specific ask.
 
 ## Skills Used in This Project
-DITA XML
-Research
-Training-Presentation
+* DITA XML
+* Research
+* Training-Presentation
 
 ## Tools Used in This Project
-Adobe FrameMaker
-BIM tools (Navisworks +)
-MS Powerpoint
+* Adobe FrameMaker
+* BIM tools (Revit, Navisworks)
+* MS Powerpoint
